@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ListInstalledAPP.init() -&gt; ListInstalledAPP?:ListInstalledAPP.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.applicationType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
